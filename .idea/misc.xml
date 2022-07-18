@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mrjer/.gradle/caches/transforms-3/276af1d2e3602d194661b71105a56d4e/transformed/jetified-Collapsible-Calendar-View-Android-v1.0.3/res/drawable/circle_white_stroke_background.xml" value="0.176" />
+        <entry key="..\:/Users/mrjer/.gradle/caches/transforms-3/276af1d2e3602d194661b71105a56d4e/transformed/jetified-Collapsible-Calendar-View-Android-v1.0.3/res/drawable/ic_calendar.xml" value="0.176" />
+        <entry key="..\:/Users/mrjer/.gradle/caches/transforms-3/276af1d2e3602d194661b71105a56d4e/transformed/jetified-Collapsible-Calendar-View-Android-v1.0.3/res/layout/day_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/.gradle/caches/transforms-3/276af1d2e3602d194661b71105a56d4e/transformed/jetified-Collapsible-Calendar-View-Android-v1.0.3/res/layout/layout_day_of_week.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/.gradle/caches/transforms-3/276af1d2e3602d194661b71105a56d4e/transformed/jetified-Collapsible-Calendar-View-Android-v1.0.3/res/layout/widget_collapsible_calendarview.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/auto_complete_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/background.xml" value="0.375" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/bg_bottom_corner.xml" value="0.375" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/circle_black_stroke_background.xml" value="0.215" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/circle_image.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/circle_white_solid_background.xml" value="0.215" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/circle_white_stroke_background.xml" value="0.216" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/corner_background.xml" value="0.362962962962963" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/corner_background_button.xml" value="0.216" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/corner_background_time.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/gradient_background.xml" value="0.216" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_add.xml" value="0.35185185185185186" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_background_log.xml" value="0.3537037037037037" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_cloud.xml" value="0.36574074074074076" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_facebook_reg.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_google_reg.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_home.xml" value="0.215" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_info_app.xml" value="0.216" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_launcher_background.xml" value="0.216" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_left_arrow.xml" value="0.216" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_main_background.xml" value="0.216" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_notes.xml" value="0.215" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_profile_default.xml" value="0.216" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ic_rename.xml" value="0.216" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ripple_add.xml" value="0.375" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ripple_button_open.xml" value="0.375" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ripple_notes_open.xml" value="0.375" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ripple_reg_login.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/drawable/ripple_schedule_element.xml" value="0.375" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/create_and_edit_schedule.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/create_and_edit_schedule_usual.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/element_calendar_cell.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/element_dialog_add_schedule.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/element_notes.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/element_notes_edit.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/element_popup_create_and_edit_schedule.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/element_popup_schedule.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/element_popup_schedule_name_lesson.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/element_popup_schedule_name_lesson_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/element_popup_schedule_type_lesson.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/element_schedule.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/element_schedule_list.xml" value="0.25" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/element_schedule_usual.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_blank.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_calendar.xml" value="0.25" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_create_edit_schedule.xml" value="0.25" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_ffff.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_log_in.xml" value="0.25" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_notes.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_notes_edit.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_schedule.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_schedule_edit.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_schedule_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_schedule_usual.xml" value="0.25" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_schedule_usual_edit.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/fragment_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/schedule_element.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/layout/time_picker_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/menu/navigation_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/menu/navigation_menu_left.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/menu/navigation_menu_right.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.216" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/mipmap-anydpi-v26/ic_my_launcher.xml" value="0.216" />
+        <entry key="..\:/Users/mrjer/Desktop/Diplom/VKR/app/src/main/res/mipmap-anydpi-v26/ic_my_launcher_round.xml" value="0.216" />
+        <entry key="..\:/VKR/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25257731958762886" />
+        <entry key="..\:/VKR/app/src/main/res/drawable/background.xml" value="0.37407407407407406" />
+        <entry key="..\:/VKR/app/src/main/res/drawable/bg_bottom_corner.xml" value="0.37407407407407406" />
+        <entry key="..\:/VKR/app/src/main/res/drawable/ic_add.xml" value="0.3769230769230769" />
+        <entry key="..\:/VKR/app/src/main/res/drawable/ic_calendar.xml" value="0.3769230769230769" />
+        <entry key="..\:/VKR/app/src/main/res/drawable/ic_cloud.xml" value="0.3769230769230769" />
+        <entry key="..\:/VKR/app/src/main/res/drawable/ic_home.xml" value="0.25257731958762886" />
+        <entry key="..\:/VKR/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25257731958762886" />
+        <entry key="..\:/VKR/app/src/main/res/drawable/ripple_add.xml" value="0.3769230769230769" />
+        <entry key="..\:/VKR/app/src/main/res/drawable/ripple_button_open.xml" value="0.37407407407407406" />
+        <entry key="..\:/VKR/app/src/main/res/drawable/ripple_schedule_element.xml" value="0.37407407407407406" />
+        <entry key="..\:/VKR/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/VKR/app/src/main/res/layout/fragment_schedule.xml" value="0.36666666666666664" />
+        <entry key="..\:/VKR/app/src/main/res/layout/schedule_element.xml" value="0.33" />
+        <entry key="..\:/VKR/app/src/main/res/layout/shadule_element.xml" value="0.36666666666666664" />
+        <entry key="..\:/VKR/app/src/main/res/menu/navigation_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/VKR/app/src/main/res/menu/navigation_menu1.xml" value="0.36666666666666664" />
+        <entry key="..\:/VKR/app/src/main/res/menu/navigation_menu_left.xml" value="0.36666666666666664" />
+        <entry key="..\:/VKR/app/src/main/res/menu/navigation_menu_right.xml" value="0.235625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
